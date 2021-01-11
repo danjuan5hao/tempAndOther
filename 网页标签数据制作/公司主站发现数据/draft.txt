@@ -1,0 +1,1065 @@
+ï»¿<!DOCTYPE html>
+
+<html>
+
+<head>  
+
+<meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<title>Aban Offshore Limited</title>
+
+<!-- CSS FILES -->
+
+<!--Template file default template.css-->
+
+<link rel="stylesheet" href="css/template.css" type="text/css">
+
+<!--Color file default none.css-->
+
+<link rel="stylesheet" href="css/none.css" type="text/css">
+
+<link rel="stylesheet" href="css/menus.css" type="text/css">
+
+<link rel="stylesheet" href="css/style.css" type="text/css">
+
+<link rel="stylesheet" href="css/responsive.css" type="text/css">
+
+<!-- RTL - Right to left languages OFF (default) if you use css/style-rtl.css your site will be in RTL Mode   -->
+
+<link rel="stylesheet" href="css/style-rtl-off.css" type="text/css">
+
+
+
+<!-- JS FILES -->
+
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript" src="js/responsive.js"></script>
+
+<script type="text/javascript" src="js/uniform.js"></script>
+
+<script type="text/javascript" src="js/script.js"></script>
+
+<!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
+
+<!-- Slideshow background param -->
+
+<script type="text/javascript">
+
+var slideshowSpeed = 5000;
+
+var slideEffect = "fade";
+
+jQuery(document).ready(function($) {$('headerimgs').bgimgSlideshow({photos : [{ 
+
+			"firstline" : "ABAN II",
+
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3Leg Mat Support, Deign : Bethlehem JU-250MS, 250 feet water depth, 19836 drilling depth",	
+
+			"url" :  "rig1.html",
+
+			"image" : "images/slide/a2.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "ABAN III",
+
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3 independent leg cantilever, Design : Marathon Le Tourneau (original design MLT-53S converted to MLT-116-SC in 1984), 300 feet water depth , 20000 feet drilling depth",	
+
+			"url" :  "rig2.html",
+
+			"image" : "images/slide/a3.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "ABAN IV",
+
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3 independent leg cantilever, Design: Baker Marine 300-IC, 300 feet water,  depth , 20000 feet drilling depth",	
+
+			"url" :  "rig3.html",
+
+			"image" : "images/slide/3.jpg",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "ABAN V",
+
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3 independent leg cantilever, Design: Friede & Goldman L-780 Mod II, 300 feet water depth , 20000 feet drilling depth",	
+
+			"url" :  "rig4.html",
+
+			"image" : "images/slide/2.jpg",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "ABAN VI",
+
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 4 independent leg cantilever, Design: Four Leg Jubilee Class, 250 feet water depth , 20000 feet drilling depth",	
+
+			"url" :  "rig5.html",
+
+			"image" : "images/slide/a6.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "ABAN VII",
+
+			"secondline" : "Self-Elevating Cantilever Jack-Up Mobile Offshore Drilling Unit, Design :MLT 52 CLASS, Class : ABS â A1, 250 feet water depth , 20000 feet drilling depth",	
+
+			"url" :  "rig6.html",
+
+			"image" : "images/slide/a7.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Aban VIII",
+
+			"secondline" : "Self-Elevating Cantilever Jack-Up Mobile Offshore Drilling Unit, Design :Baker Marine Pacific Class 375, Class : ABS â A1, 375 feet water depth,30000 feet drilling depth",	
+
+			"url" :  "rig7.html",
+
+			"image" : "images/slide/a8.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		
+
+		{ 
+
+			"firstline" : "Deep Driller 1",
+
+			"secondline" : "Self-Elevating Cantilever Jack-Up Mobile Offshore Drilling Unit, Design :Baker Marine Pacific Class 375, Class : ABS â A1, 375 feet water depth,30000 feet drilling depth",	
+
+			"url" :  "deepdriller1.html",
+
+			"image" : "images/slide/dd1.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 2",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :Sing Class, 350 feet water depth, 35000 feet drilling depth",	
+
+			"url" :  "deepdriller2.html",
+
+			"image" : "images/slide/dd2.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 3",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :ABS â A1, 350 feet water depth, 35000 feet drilling depth",	
+
+			"url" :  "deepdriller3.html",
+
+			"image" : "images/slide/dd3.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 4",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Design : Baker Marine Pacific Class 375, Class : Sing Class,375 feet water depth, 30000 feet drilling depth",	
+
+			"url" :  "deepdriller4.html",
+
+			"image" : "images/slide/dd4.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 5",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :Sing Class, 350 feet water depth, 35000 feet drilling depth",	
+
+			"url" :  "deepdriller5.html",
+
+			"image" : "images/slide/3.jpg",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 6",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :Sing Class,350 feet water depth, 35000 feet drilling depth",	
+
+			"url" :  "deepdriller6.html",
+
+			"image" : "images/slide/dd6.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 7",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit,  Design : Baker Marine Pacific Class 375, Class : ABS â A1,375 feet water depth, 30000 feet drilling depth",	
+
+			"url" :  "deepdriller7.html",
+
+			"image" : "images/slide/2.jpg",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Deep Driller 8",
+
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :ABS â A1, 350 feet water depth, 35000 feet drilling depth",	
+
+			"url" :  "deepdriller8.html",
+
+			"image" : "images/slide/1.jpg",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "ABAN Ice",
+
+			"secondline" : "Drill-ship Mono Hull, Design : Hapag Lloyd Werft Gmb, 600 feet water depth ,20000 feet drilling depth",	
+
+			"url" :  "abanice.html",
+
+			"image" : "images/slide/4.jpg",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		{ 
+
+			"firstline" : "Aban Abraham",
+
+			"secondline" : "Drill Ship Dynamically positioned class 2, Design : Gusto engineering âPelicanâ class design Cantilevered Triangular Jack-Up, Class : DNV-1A1Ship-Shaped drilling unit, DYNPOS-AUTR, EO 6600 feet water depth, 25000 feetdrilling depth",	
+
+			"url" :  "abanabraham.html",
+
+			"image" : "images/slide/abanab.png",
+
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+
+		},
+
+		
+
+		]});});
+
+		
+
+
+
+</script>
+
+<script src="js/jquery.vticker.min.js"></script>
+
+<script>
+
+  $(function() {
+
+    $('#vTicker').vTicker();
+
+  });
+
+</script>
+
+<style type="text/css">
+
+ifont
+
+{
+
+    color:#FFF;
+
+    display: block;
+
+    background-image: url("http://www.abanoffshore.com/images/transparent-bg.png");
+
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+
+    color: white;
+
+    }
+
+    
+
+</style>
+
+</head>
+
+<body>
+
+<!-- Background slideshow divs-->
+
+<div id="headerimgs">
+
+  <div id="headerimg1" style="z-index:-1" class="headerimg"></div>
+
+  <div id="headerimg2" style="z-index:1" class="headerimg"></div>
+
+</div>
+
+
+
+<!-- Slideshow controls -->
+
+<!--<div class="fade">
+
+  <div id="control" class="btn"></div>
+
+</div>
+
+<div id="back" class="btn-back"></div>
+
+<div id="next" class="btn-next"></div>
+
+<div id="fullscreen" class="btnf"></div>-->
+
+
+
+<!-- end .Slideshow controls -->
+
+
+
+<div id="wrap" class="clearfix">
+
+  <div id="header-wrap">
+
+    <div id="pre-header" class="clearfix">
+
+      <div id="logo" class="logo"> 
+
+        
+
+        <!-- logo & slogan --> 
+
+        <a href="http://abanoffshore.com/" title="Home"><img src="images/logo.png" alt="Home" /></a> 
+
+        <!-- end. logo & slogan --> 
+
+        
+
+      </div>
+
+      <div class="features_top_div"> 
+
+        <!-- features top -->
+
+         
+
+        <!-- end .features top -->
+
+       
+
+        <div class="region region-header-features">
+
+          
+
+          <!-- /.block -->
+
+          <!--<div id="block-search-form" class="block block-search">
+
+            <div class="content">
+
+              <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="#" method="post" id="search-block-form" accept-charset="UTF-8">
+
+                <div>
+
+                  <div class="container-inline">
+
+                    <div class="form-item form-type-textfield form-item-search-block-form">
+
+                      <input title="Enter the terms you wish to search for." onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="16" maxlength="128" class="form-text" />
+
+                      <input alt="Search" type="image" id="edit-submit" name="submit" src="images/search-button.png" class="form-submit" />
+
+                    </div>
+
+                    <input type="hidden" name="form_id" value="search_block_form" />
+
+                  </div>
+
+                </div>
+
+              </form>
+
+            </div>
+
+          </div>-->
+
+          <!-- /.block --> 
+
+        </div>
+
+        <!-- /.region --> 
+
+      </div>
+
+    </div>
+
+
+
+    <div class="top_line_tb"></div>
+
+    <header id="header" class="clearfix">
+
+ <nav id="navigation" role="navigation">
+
+        <div id="main-menu">
+
+          <ul class="menu">
+
+            
+
+            <li class="leaf"><a href="history.html" >About Us</a>
+
+			 <ul class="menu">
+
+                <li class="first last leaf"><a  href="history.html">Our History</a>
+
+				<ul class="menu">
+
+                    <li class="first last leaf"><a title="" href="founder.html">Founder</a></li>
+
+					
+
+                    <li class="first last leaf"><a title="" href="vision.html">Vision & Mission</a></li>
+
+					<li class="first last leaf"><a title="" href="milestones.html">Milestones</a></li>
+
+					</ul></li>
+
+					<li class="first last leaf"><a title="" href="governance.html">Management</a></li>
+
+				<li class="first last leaf"><a  href="drilling.html">Profile</a>
+
+				<ul class="menu">
+
+                     <li class="first last leaf"><a title="" href="drilling.html">Drilling & Production</a></li>
+
+					 <li class="first last leaf"><a title="" href="wind.html">Wind Energy</a></li>
+
+                    
+
+					</ul></li>
+
+				<li class="first last leaf"><a  href="office.html">Offices</a></li>
+
+				<li class="first last leaf"><a  href="corporate.html">Corporate Structure</a></li>
+
+				<li class="first last leaf"><a  href="hse.html">QHSE</a></li>
+
+			</ul></li>
+
+			<li class="leaf"><a href="rig.html">Our Fleet</a>
+
+			<ul class="menu">
+
+                    <li class="first last leaf"><a title="" href="rig.html">Rig Fleet</a></li>
+
+                    
+
+					</ul></li>
+
+					<li class="first leaf"><a href="investor.html" class="active">Investor Information</a>
+
+			<ul class="menu">
+
+                    <li class="first last leaf"><a title="" href="overview.html">Overview</a></li>
+
+                    <li class="first last leaf"><a title="" href="fleet.html">Fleet Status Report</a></li>
+
+					<!--<li class="first last leaf"><a title="" href="governance.html">Corporate Governance</a></li>-->
+
+                    <li class="first last leaf"><a title="" href="#">Investor Relations</a>
+
+					<ul class="menu">
+
+
+
+                    <li class="first last leaf"><a title="" href="pdf/IEPF_F_Y2011-12.pdf">Transfer of Shares to IEPFA</a></li>
+
+
+
+<li class="first last leaf"><a title="" href="IEPF.html">IEPF Authority â Nodal Officer</a></li>
+
+
+
+                    <li class="first last leaf"><a title="" href="shareholding.html">Shareholding Pattern</a></li>
+
+                    <li class="first last leaf"><a title="" href="investor.html">Financial Report</a></li>
+
+					<li class="first last leaf"><a title="" href="stock.html">Stock Exchange Announcement</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/E-Voting2020.pdf">E-Voting 2020</a></li>
+
+
+
+	
+
+				<li class="first last leaf"><a title="" href="code.html">Code of Conduct</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/IDAL2020.pdf">Independent Directors Appointment Letter Latest</a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/Transcript_Q2FY19.pdf">Conference Call Transcripts Q2 FY2019 </a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/Transcript_Q1FY19.pdf">Conference Call Transcripts Q1 FY2019 </a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/Transcript_Q4FY18.pdf">Conference Call Transcripts Q4 FY2018 </a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/Transcript_Q3FY18.pdf">Conference Call Transcripts Q3 FY2018 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/AbanOffshore-Nov08-2017.pdf">Conference Call Transcripts Q2 FY2018 </a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/AxisCap-AbanOffshore-Aug04-2017.pdf">Conference Call Transcripts Q1 FY2018 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/AxisCap-AbanOffshore-May29-2017.pdf">Conference Call Transcripts Q4 FY2017 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/AbanOffshore-03Feb-2017.pdf">Conference Call Transcripts Q3 FY2017 </a></li>
+
+
+
+					
+
+					<li class="first last leaf"><a title="" href="unclaim.html">Unclaimed dividend</a></li>
+
+<li class="first last leaf"><a title="" href="PDF/IEPFFY10-11.pdf">List of Shares proposed to be transferred to IEPF 10-11</a></li>
+
+<li class="first last leaf"><a title="" href="PDF/EQUITY.pdf">List of Shares proposed to be transferred to IEPF 09-10</a></li>
+
+<li class="first last leaf"><a title="" href="PDF/EQUITY0809.pdf">List of Shares proposed to be transferred to IEPF 08-09</a></li>
+
+<!--
+
+<li class="first last leaf"><a title="" href="PDF/EQUITY.pdf">List of Equity Shares Proposed to be transferred to IEPF</a></li>
+
+
+
+	-->				
+
+
+
+	
+
+
+
+
+
+
+
+<li class="first last leaf"><a title="" href="IDAL.html">Independent Directors Appointment letter</a></li>
+
+<li class="first last leaf"><a title="" href="PSD.html">Preference Shares Details</a></li>
+
+
+
+</ul></li>
+
+<li class="first last leaf"><a title="" href="#">Policies</a>
+
+					<ul class="menu">
+
+<li class="first last leaf"><a title="" href="pdf/PolicyDLP052019.pdf">Policy for determination of Legitimate purpose</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/PolicyDWLUPSI2019.pdf">Policy for dealing with leak or suspected leak of Unpublished Price Sensitive Information</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/WBP052019.pdf">Whistle Blower Policy</a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/AOLFDUPSI.pdf">Code of fair disclosure</a></li>
+
+<li class="first last leaf"><a title="" href="code.html">Code of Conduct</a></li>				
+
+<li class="first last leaf"><a title="" href="pdf/CSR_Policy.pdf">CSR Policy</a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/Materiality Policy.pdf">Policy on Determination of Materiality for Disclosure of Events or Information</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/Archival Policy.pdf">Archival Policy</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/1331_001.pdf">Familiarisation Programme for Independent Directors 19-20</a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/1723_001.pdf">Familiarisation Programme for Independent Directors 18-19</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/4587_001.pdf">Familiarisation Programme for Independent Directors 17-18</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/FPID.pdf">Familiarisation Programme for Independent Directors 16-17</a></li>
+
+
+
+
+
+
+
+                    <li class="first last leaf"><a title="" href="pdf/PolicyMaterial_subsidiaries.pdf">Policy On Material Subsidiaries</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/Related Party Transactions Policy.pdf">Related Party Transactions Policy</a></li>
+
+<li class="first last leaf"><a title="" href="trading.html">Insider Trading Code</a></li>
+
+</ul>
+
+					<li class="first last leaf"><a title="" href="presentation.html">Presentation</a></li>
+
+                    <li class="first last leaf"><a title="" href="#">Archives</a><ul class="menu">
+
+<li class="first last leaf"><a title="" href="pdf/whistleblowerpolicy.pdf">Whistle Blower Policy</a></li>	
+
+<li class="first last leaf"><a href="http://abanoffshore.com/archiveunclaim.html">Unclaimed Dividend</a></li>
+
+<li class="first last leaf"><a href="http://abanoffshore.com/pdf/unclaimeddividend.pdf">Unclaimed Dividend</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/FPID_12042016.pdf">Familiarisation Programme for Independent Directors 15-16</a></li>
+
+                    
+
+                    <li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/dd112062012.pdf">DD1PL Bond Issue Listing Document (June 2012)</a></li>
+
+                    <li class="first last leaf"><a title="" href="http://www.aban.com/aol/pddisc1.aspx">QIP-Nov 2009- Placement Document</a></li>
+
+		<li class="first last leaf"><a title="" href="predocument.html">QIP - Jul 2014 - Placement Document</a></li>
+
+		<li class="first last leaf"><a title="" href="pdf/EvotingSep2014.pdf">E-Voting</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/AGM2015.pdf">E-Voting 2015</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/e-Voting2017.pdf">E-Voting 2017</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/3505_001.pdf">Conference Call Transcripts Q2 FY2017 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/AxisCap-AbanOffshore-Aug12-2016.pdf">Conference Call Transcripts Q1 FY2017 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/AbanOffshore-May23-2016.pdf">Conference Call Transcripts Q4 FY2016 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/Transcript_Q3FY16.pdf">Conference Call Transcripts Q3 FY2016 </a></li>
+
+
+
+<li class="first last leaf"><a title="" href="pdf/AbanConcallTranscriptsFY16-Q2.pdf">Conference Call Transcripts Q2 FY2016 </a></li>
+
+
+
+		<li class="first last leaf"><a title="" href="pdf/Aban Concall Transcripts FY16-Q1.pdf">Conference Call Transcripts Q1 FY2016 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/Aban Concall Transcripts FY15-Q4.pdf">Conference Call Transcripts Q4 FY2015 </a></li>
+
+<li class="first last leaf"><a title="" href="pdf/Aban Offshore 3QFY15 Conference Call Transcript.pdf">Conference Call Transcripts Q3 FY2015 </a></li>	
+
+
+
+<li class="first last leaf"><a title="" href="pdf/concalltranscript_q2.pdf">Conference Call Transcripts Q2 FY2015</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/concalltranscript.pdf">Conference Call Transcripts Q1 FY2015 </a></li>
+
+
+
+	
+
+					<li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/Postalballot2014Resolution.pdf">Postal ballot 2014 â Resolution</a></li>
+
+					<li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/Postalballot2014âform.pdf">Postal ballot 2014 â form</a></li>
+
+					<li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/postalballot2014result.pdf">Postal ballot 2014 â Result</a></li>
+
+					
+
+					</ul></li>
+
+					<li class="first last leaf"><a title="" href="contactusKMP.html">Contact Details of Key Managerial Personnel</a></li>
+
+                   <li class="first last leaf"><a title="" href="Grievances.html">Contact Details of Investor Grievances</a></li>
+
+                   <li class="first last leaf"><a title="" href="contactus.html">Contact Us</a></li>
+
+					</ul></li>
+
+					
+
+					<li class="leaf"><a href="blog.html">Work With Us</a>
+
+			<ul class="menu">
+
+                    <li class="first last leaf"><a title="" href="career.html">Careers At aban</a>
+
+					</li>
+
+                    
+
+					</ul></li>
+
+					<li class="first last leaf"><a title="" href="vendor.html">Procurement</a>
+
+					<ul class="menu">
+
+                    <li class="first last leaf"><a title="" href="become.html">Becoming A Vendor</a></li>
+
+                    <li class="first last leaf"><a title="" href="existing.html">Existing Vendor</a>
+
+					</li>
+
+					<li class="first last leaf"><a title="" href="abanterm.html">Standard Terms & Conditions</a></li>
+
+					<li class="first last leaf"><a title="" href="vendorcontact.html">Contact Us</a></li>
+
+
+
+					</ul></li>
+
+					
+
+<li class="leaf"><a href="contact.html">Contact Us</a></li>
+
+
+
+		
+
+          </ul>
+
+        </div>
+
+      </nav>
+
+<div class="ifont">
+
+
+
+<marquee> <h1> <a href="iupdate.html"> IMPORTANT NOTICE: Dear Shareholder, click here to update your contact details to enable us to communicate with you effectively. </a></h1> </marquee> 
+
+
+
+</div>
+
+      <div id="header-right">
+
+        <div id="block-views-latest-news-block">
+
+          <div class="content">
+
+            <div class="view view-latest-news view-id-latest_news view-display-id-block">
+
+              <div class="view-content"> 
+
+                
+
+                <!-- start scroll -->
+
+                <div id="vTicker" class='view view-latest_news'>
+
+                  <ul id='views-ticker-vTicker-list-latest_news'>
+
+                   <!-- <li> <span class='views-vTicker-tick-field'> <a href="news_detail.html">Duis Interdico Te</a> <span class="latest-news-body">Duis in jus letalis pagus patria verto. Duis eligo facilisis ideo nostrud paratus ulciscor.</span> Sunday, January 13, 2013 - 09:38</span> </li>
+
+                    <li> <span class='views-vTicker-tick-field'> <a href="news_detail.html">Duis Interdico Te</a> <span class="latest-news-body">Duis in jus letalis pagus patria verto. Duis eligo facilisis ideo nostrud paratus ulciscor.</span> Sunday, January 13, 2013 - 09:38</span> </li>-->
+
+                  </ul>
+
+                </div>
+
+      </nav>
+
+      <div id="header-right">
+
+        <div id="block-views-latest-news-block">
+
+          <div class="content">
+
+            <div class="view view-latest-news view-id-latest_news view-display-id-block">
+
+              <div class="view-content"> 
+
+                
+
+                <!-- start scroll -->
+
+                <div id="vTicker" class='view view-latest_news'>
+
+                  <ul id='views-ticker-vTicker-list-latest_news'>
+
+                   <!-- <li> <span class='views-vTicker-tick-field'> <a href="news_detail.html">Duis Interdico Te</a> <span class="latest-news-body">Duis in jus letalis pagus patria verto. Duis eligo facilisis ideo nostrud paratus ulciscor.</span> Sunday, January 13, 2013 - 09:38</span> </li>
+
+                    <li> <span class='views-vTicker-tick-field'> <a href="news_detail.html">Duis Interdico Te</a> <span class="latest-news-body">Duis in jus letalis pagus patria verto. Duis eligo facilisis ideo nostrud paratus ulciscor.</span> Sunday, January 13, 2013 - 09:38</span> </li>-->
+
+                  </ul>
+
+                </div>
+
+                <!-- end scroll --> 
+
+                
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- /.block --> 
+
+        </div>
+
+        <!-- /.region --> 
+
+      </div>
+
+    </header>
+
+  </div>
+
+  <div id="body" class="body" >
+
+    <div>
+
+      <div id="headertxt"><a href="#" id="firstline"></a><a href="#" id="secondline"></a> <a href="#" id="link"></a></div>
+
+    </div>
+
+  </div>
+
+   <footer id="footer-bottom" style="position:absolute;">
+
+    <div id="footer-area" class="clearfix">
+
+    
+
+ <div class="region region-footer">
+
+        <div id="block-block-5" class="block block-block" size="60">
+
+         <div><h1><strong><Font color=white>Job Vacancies</strong></p></h1></font></div>
+
+<!--
+
+<div style="font color:red;"><strong><h2><U>Urgent requirement</U></h2></strong></div><br> -->
+
+<a href="/career.html">
+
+<div><strong><Font color=white>
+
+Tool Pusher (Jack Up) â Minimum 3+ years in the position with Cyber and HPHT experience
+
+<br>
+
+Driller (Jack Up) â Minimum 3+ years in the position with Cyber and HPHT experience
+
+<br>
+
+Assistant Driller (Floater) â Minimum  3+ years in the position
+
+<br>
+
+<!--
+
+Senior Malaysian Drilling Crew for 2 years contract in Malaysia
+
+
+
+ <br>
+
+
+
+Â·         Offshore Installation Manager
+
+<br>
+
+Â·         Tool Pusher
+
+<br>
+
+Â·         Driller
+
+<br>
+
+Â·         Barge Engineer
+
+<br>
+
+Â·         Chief Electrician
+
+<br>
+
+Â·         Chief Mechanic
+
+<br>
+
+Â·         Electronic Technician
+
+<br>
+
+Â·         Assistant Driller
+
+
+
+<br>
+
+Â·         Procurment & Logistics Officer <br>
+
+
+
+Experienced Malaysian nationals need only apply
+
+
+
+-->
+
+<br>
+
+</FONT></strong></div></a><br>
+
+<!--
+
+<strong><h2><U>Vacancy in India
+
+</U></h2></strong></div><br>
+
+<a href="/career.html">
+
+<div><strong><Font color=white>* Tool Pusher with Cyber, HPHT experience</FONT></strong></div><br><a href="/career.html">
+
+<div><strong><Font color=white>* Driller with Cyber, HPHT experience</FONT></strong></div></a><br>
+
+<div><strong><Font color=white>* Chief Electrician</FONT></strong></div></a><br>
+
+<div><strong><Font color=white>* Electronic Technician</FONT></strong></div></a><br>
+
+<div><strong><Font color=white>* Electrician â DP and High Voltage experience</FONT></strong></div></a><br>
+
+<div><strong><Font color=white>* Hydraulic Technician â Drillship experience</FONT></strong></div></a><br></a>
+
+
+
+-->
+
+ <div>
+
+<marquee direction="up" scrolldelay="250" onmouseover="this.stop();" onmouseout="this.start();">
+
+<!-- 
+
+<a href="/career.html">OIM</a><br>
+
+<a href="/career.html">Tool Pusher</a><br>
+
+<a href="/career.html">Driller</a><br>
+
+<a href="/career.html">Chief Mechanic</a><br>
+
+<a href="/career.html">Chief Electrician</a><br>
+
+<a href="/career.html">Electronic Technician</a><br>
+
+<a href="/career.html">Barge Engineer</a><br>
+
+<a href="/career.html">Safety Officer</a><br>
+
+
+
+
+
+<a href="/career.html"Barge Engineer</a><br>
+
+<a href="/career.html">Chief Electrician</a><br>
+
+<a href="/career.html">Chief Mechanic</a><br>
+
+<a href="/career.html">Crane Operator</a><br>
+
+<a href="/career.html">Radio Operator</a><br>
+
+<a href="/career.html">Medic</a><br>
+
+-->
+
+</marquee>
+
+</div>
+
+        
+
+            <br />
+
+            Â© 2014 Aban Offshore Limited. All rights reserved</div>
+
+        </div>
+
+      </div>
+
+      <!-- /.region --> 
+
+    </div>
+
+  </footer>
+
+</div>
+
+
+
+</body>
+
+</html>

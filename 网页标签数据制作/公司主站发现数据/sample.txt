@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Aban Offshore Limited</title>
+<!-- CSS FILES -->
+<!--Template file default template.css-->
+<link rel="stylesheet" href="css/template.css" type="text/css">
+<!--Color file default none.css-->
+<link rel="stylesheet" href="css/none.css" type="text/css">
+<link rel="stylesheet" href="css/menus.css" type="text/css">
+<link rel="stylesheet" href="css/style.css" type="text/css">
+<link rel="stylesheet" href="css/responsive.css" type="text/css">
+<!-- RTL - Right to left languages OFF (default) if you use css/style-rtl.css your site will be in RTL Mode   -->
+
+<!-- Tabs -->
+	<link rel="stylesheet" href="css/demo.css">
+	<link rel="stylesheet" href="css/font-awesome.css">
+	<link rel="stylesheet" href="css/sky-tabs.css">
+		
+		<!-- End Tab-->
+<link rel="stylesheet" href="css/style-rtl-off.css" type="text/css">
+
+<!-- JS FILES -->
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/responsive.js"></script>
+<script type="text/javascript" src="js/uniform.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
+
+
+<!-- Slideshow background param -->
+<script type="text/javascript">
+var slideshowSpeed = 5000;
+var slideEffect = "fade";
+jQuery(document).ready(function($) {$('headerimgs').bgimgSlideshow({photos : [{ 
+			"firstline" : "Deep Driller 8",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :ABS â A1, 350 feet water depth, 35000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/1.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN II",
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3Leg Mat Support, Deign : Bethlehem JU-250MS, 250 feet water depth, 19836 drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/2.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN III",
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3 independent leg cantilever, Design : Marathon Le Tourneau (original design MLT-53S converted to MLT-116-SC in 1984), 300 feet water depth , 20000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/3.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN IV",
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3 independednt leg cantilever, Design: Baker Marine 300-IC, 300 feet water,  depth , 20000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/1.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN V",
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 3 independednt leg cantilever, Design: Friede & Goldman L-780 Mod II, 300 feet water depth , 20000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/2.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN VI",
+			"secondline" : "Jack-Up Self -Elevating Drilling Unit 4 independednt leg cantilever, Design: Four Leg Jubilee Class, 250 feet water depth , 20000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/3.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN VII",
+			"secondline" : "Self-Elevating Cantilever Jack-Up Mobile Offshore Drilling Unit, Design :MLT 52 CLASS, Class : ABS â A1, 250 feet water depth , 20000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/1.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Aban VIII",
+			"secondline" : "Self-Elevating Cantilever Jack-Up Mobile Offshore Drilling Unit, Design :Baker Marine Pacific Class 375, Class : ABS â A1, 375 feet water depth,30000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/2.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "ABAN Ice",
+			"secondline" : "Drill-ship Mono Hull, Design : Hapag Lloyd Werft Gmb, 600 feet water depth ,20000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/4.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 1",
+			"secondline" : "Self-Elevating Cantilever Jack-Up Mobile Offshore Drilling Unit, Design :Baker Marine Pacific Class 375, Class : ABS â A1, 375 feet water depth,30000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/1.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 2",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :Sing Class, 350 feet water depth, 35000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/2.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 3",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :ABS â A1, 350 feet water depth, 35000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/3.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 4",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Design : Baker Marine Pacific Class 375, Class : Sing Class,375 feet water depth, 30000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/1.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 5",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :Sing Class, 350 feet water depth, 35000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/2.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 6",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit, Skid-Off Capability, Design : KFELS Super B Class, Class :Sing Class,350 feet water depth, 35000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/3.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Deep Driller 7",
+			"secondline" : "Self-Elevating, Cantilever, Independent Leg, Jack-Up Mobile Offshore Drilling Unit,  Design : Baker Marine Pacific Class 375, Class : ABS â A1,375 feet water depth, 30000 feet drilling depth",	
+			"url" :  "",
+			"image" : "images/slide/2.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		{ 
+			"firstline" : "Aban Abraham",
+			"secondline" : "Drill Ship Dynamically positioned class 2, Design : Gusto engineering âPelicanâ class design Cantilevered Triangular Jack-Up, Class : DNV-1A1Ship-Shaped drilling unit, DYNPOS-AUTR, EO 6600 feet water depth, 25000 feetdrilling depth",	
+			"url" :  "",
+			"image" : "images/slide/3.jpg",
+			"link" : "<div class=\"pictured\">VIEW MORE<div>"
+		},
+		
+		]});});
+		
+
+</script>
+
+
+<script src="js/jquery.vticker.min.js"></script>
+<script>
+  $(function() {
+    $('#vTicker').vTicker();
+  });
+</script>
+</head>
+
+<body class="no-sidebars">
+
+<!-- Background slideshow-->
+<div id="headerimgs">
+  <div id="headerimg1" style="z-index:-1" class="headerimg"></div>
+  <div id="headerimg2" style="z-index:1" class="headerimg"></div>
+</div>
+<!-- end .Slideshow --> 
+
+<!-- Slideshow controls -->
+<!--<div class="fade">
+  <div id="control" class="btn"></div>
+</div>
+<div id="back" class="btn-back"></div>
+<div id="next" class="btn-next"></div>
+<div id="fullscreen" class="btnf"></div>-->
+<!-- end .Slideshow controls -->
+
+<div id="wrap" class="clearfix">
+  <div id="header-wrap">
+    <div id="pre-header" class="clearfix">
+      <div id="logo" class="logo"> 
+        
+        <!-- logo & slogan --> 
+        <a href="http://abanoffshore.com/" title="Home"><img src="images/logo.png" alt="Home" /></a> 
+        <!-- end. logo & slogan --> 
+        
+      </div>
+      <div class="features_top_div"> 
+        <!-- features top -->
+        <!--<div class="social_icons">
+          <ul>
+            <li><a href="http://www.facebook.com/facebook" target="_blank" rel="me"><img src="images/facebook.png" alt="Facebook"/></a></li>
+            <li><a href="http://www.twitter.com/twitter" target="_blank" rel="me"><img src="images/twitter.png" alt="Twitter"/></a></li>
+            <li><a href="https://plus.google.com/googleplus" target="_blank" rel="me"><img src="images/googleplus.png" alt="Twitter"/></a></li>
+          </ul>
+        </div>-->
+        <!-- end .features top -->
+        
+        <div class="region region-header-features">
+          <!--<div id="block-locale-language" class="block block-locale">
+            <div class="content">
+              <ul class="language-switcher-locale-url">
+                <li class="en first active"><a href="#" class="language-link active" lang="en"><img class="language-icon" src="images/flags/en.png" width="16" height="12" alt="English" title="English" /> </a></li>
+                <li class="de"><a href="#" class="language-link" lang="de"><img class="language-icon" src="images/flags/de.png" width="16" height="12" alt="Deutsch" title="Deutsch" /> </a></li>
+                <li class="fr last"><a href="#" class="language-link" lang="fr"><img class="language-icon" src="images/flags/fr.png" width="16" height="12" alt="FranÃ§ais" title="FranÃ§ais" /> </a></li>
+              </ul>
+            </div>
+          </div>-->
+          <!-- /.block -->
+          <!--<div id="block-search-form" class="block block-search">
+            <div class="content">
+              <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="#" method="post" id="search-block-form" accept-charset="UTF-8">
+                <div>
+                  <div class="container-inline">
+                    <div class="form-item form-type-textfield form-item-search-block-form">
+                      <input title="Enter the terms you wish to search for." onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="16" maxlength="128" class="form-text" />
+                      <input alt="Search" type="image" id="edit-submit" name="submit" src="images/search-button.png" class="form-submit" />
+                    </div>
+                    <input type="hidden" name="form_id" value="search_block_form" />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>-->
+          <!-- /.block --> 
+        </div>
+        <!-- /.region --> 
+      </div>
+    </div>
+    <div class="top_line_tb"></div>
+    <header id="header" class="clearfix">
+<nav id="navigation" role="navigation">
+        <div id="main-menu">
+          <ul class="menu">
+            
+            <li class="leaf"><a href="history.html" >About Us</a>
+			 <ul class="menu">
+                <li class="first last leaf"><a  href="history.html">Our History</a>
+				<ul class="menu">
+                    <li class="first last leaf"><a title="" href="founder.html">Founder</a></li>
+					
+                    <li class="first last leaf"><a title="" href="vision.html">Vision & Mission</a></li>
+					<li class="first last leaf"><a title="" href="milestones.html">Milestones</a></li>
+					</ul></li>
+					<li class="first last leaf"><a title="" href="governance.html">Management</a></li>
+				<li class="first last leaf"><a  href="drilling.html">Profile</a>
+				<ul class="menu">
+                     <li class="first last leaf"><a title="" href="drilling.html">Drilling & Production</a></li>
+					 <li class="first last leaf"><a title="" href="wind.html">Wind Energy</a></li>
+                    
+					</ul></li>
+				<li class="first last leaf"><a  href="office.html">Offices</a></li>
+				<li class="first last leaf"><a  href="corporate.html">Corporate Structure</a></li>
+				<li class="first last leaf"><a  href="hse.html">QHSE</a></li>
+			</ul></li>
+			<li class="leaf"><a href="rig.html">Our Fleet</a>
+			<ul class="menu">
+                    <li class="first last leaf"><a title="" href="rig.html">Rig Fleet</a></li>
+                    
+					</ul></li>
+					<li class="first leaf"><a href="investor.html" class="active">Investor Information</a>
+			<ul class="menu">
+                    <li class="first last leaf"><a title="" href="overview.html">Overview</a></li>
+                    <li class="first last leaf"><a title="" href="fleet.html">Fleet Status Report</a></li>
+					<!--<li class="first last leaf"><a title="" href="governance.html">Corporate Governance</a></li>-->
+                    <li class="first last leaf"><a title="" href="#">Investor Relations</a>
+					<ul class="menu">
+                    <li class="first last leaf"><a title="" href="shareholding.html">Shareholding Pattern</a></li>
+                    <li class="first last leaf"><a title="" href="investor.html">Financial Report</a></li>
+					<li class="first last leaf"><a title="" href="stock.html">Stock Exchange Announcement</a></li>
+					<li class="first last leaf"><a title="" href="code.html">Code of Conduct</a></li>
+					<li class="first last leaf"><a title="" href="pdf/Aban Concall Transcripts FY16-Q1.pdf">Conference Call Transcripts Q1 FY2016 </a></li>
+
+					
+					<li class="first last leaf"><a title="" href="unclaim.html">Unclaimed dividend</a></li>
+
+
+					
+
+	
+
+
+
+<li class="first last leaf"><a title="" href="IDAL.html">Independent Directors Appointment letter</a></li>
+
+</ul></li>
+<li class="first last leaf"><a title="" href="#">Policies</a>
+					<ul class="menu">
+<li class="first last leaf"><a title="" href="pdf/AOLFDUPSI.pdf">Code of fair disclosure</a></li>
+<li class="first last leaf"><a title="" href="code.html">Code of Conduct</a></li>				
+<li class="first last leaf"><a title="" href="pdf/CSR_Policy.pdf">CSR Policy</a></li>
+<li class="first last leaf"><a title="" href="pdf/FPID.pdf">Familiarisation Programme for Independent Directors</a></li>
+
+<li class="first last leaf"><a title="" href="pdf/whistleblowerpolicy.pdf">Whistle Blower Policy</a></li>	
+
+                    <li class="first last leaf"><a title="" href="pdf/PolicyMaterial_subsidiaries.pdf">Policy On Material Subsidiaries</a></li>
+<li class="first last leaf"><a title="" href="pdf/Related Party Transactions Policy.pdf">Related Party Transactions Policy</a></li>
+<li class="first last leaf"><a title="" href="trading.html">Insider Trading Code</a></li>
+</ul>
+					<li class="first last leaf"><a title="" href="presentation.html">Presentation</a></li>
+                    <li class="first last leaf"><a title="" href="#">Archives</a><ul class="menu">
+                    <li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/dd112062012.pdf">DD1PL Bond Issue Listing Document (June 2012)</a></li>
+                    <li class="first last leaf"><a title="" href="http://www.aban.com/aol/pddisc1.aspx">QIP-Nov 2009- Placement Document</a></li>
+		<li class="first last leaf"><a title="" href="predocument.html">QIP - Jul 2014 - Placement Document</a></li>
+		<li class="first last leaf"><a title="" href="pdf/EvotingSep2014.pdf">E-Voting</a></li>
+<li class="first last leaf"><a title="" href="pdf/Aban Concall Transcripts FY15-Q4.pdf">Conference Call Transcripts Q4 FY2015 </a></li>
+<li class="first last leaf"><a title="" href="pdf/Aban Offshore 3QFY15 Conference Call Transcript.pdf">Conference Call Transcripts Q3 FY2015 </a></li>	
+
+<li class="first last leaf"><a title="" href="pdf/concalltranscript_q2.pdf">Conference Call Transcripts Q2 FY2015</a></li>
+<li class="first last leaf"><a title="" href="pdf/concalltranscript.pdf">Conference Call Transcripts Q1 FY2015 </a></li>
+
+	
+					<li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/Postalballot2014Resolution.pdf">Postal ballot 2014  Resolution</a></li>
+					<li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/Postalballot2014form.pdf">Postal ballot 2014  form</a></li>
+					<li class="first last leaf"><a title="" href="http://abanoffshore.com/pdf/postalballot2014result.pdf">Postal ballot 2014  Result</a></li>
+					
+					</ul></li>
+<li class="first last leaf"><a title="" href="contactusKMP.html">Contact Details of Key Managerial Personnel</a></li>					<li class="first last leaf"><a title="" href="contactus.html">Contact Us</a></li>
+                   
+					</ul></li>
+					
+					<li class="leaf"><a href="blog.html">Work With Us</a>
+			<ul class="menu">
+                    <li class="first last leaf"><a title="" href="career.html">Careers At aban</a>
+					</li>
+                    
+					</ul></li>
+					<li class="first last leaf"><a title="" href="vendor.html">Procurement</a>
+					<ul class="menu">
+                    <li class="first last leaf"><a title="" href="become.html">Becoming A Vendor</a></li>
+                    <li class="first last leaf"><a title="" href="existing.html">Existing Vendor</a>
+					</li>
+					<li class="first last leaf"><a title="" href="abanterm.html">Standard Terms & Conditions</a></li>
+					<li class="first last leaf"><a title="" href="vendorcontact.html">Contact Us</a></li>
+					</ul></li>
+					<li class="leaf"><a href="contact.html">Contact Us</a></li>
+		
+          </ul>
+        </div>
+      </nav>
+      <div id="header-right">
+        <div id="block-views-latest-news-block">
+          <div class="content">
+            <div class="view view-latest-news view-id-latest_news view-display-id-block">
+              <div class="view-content"> 
+                
+                <!-- start scroll -->
+                <div id="vTicker" class='view view-latest_news'>
+                  <ul id='views-ticker-vTicker-list-latest_news'>
+                   <!-- <li> <span class='views-vTicker-tick-field'> <a href="news_detail.html">Duis Interdico Te</a> <span class="latest-news-body">Duis in jus letalis pagus patria verto. Duis eligo facilisis ideo nostrud paratus ulciscor.</span> Sunday, January 13, 2013 - 09:38</span> </li>
+                    <li> <span class='views-vTicker-tick-field'> <a href="news_detail.html">Duis Interdico Te</a> <span class="latest-news-body">Duis in jus letalis pagus patria verto. Duis eligo facilisis ideo nostrud paratus ulciscor.</span> Sunday, January 13, 2013 - 09:38</span> </li>-->
+                  </ul>
+                </div>
+                <!-- end scroll --> 
+                
+              </div>
+            </div>
+          </div>
+          <!-- /.block --> 
+        </div>
+        <!-- /.region --> 
+      </div>
+    </header>
+  </div>
+  <div class="split_line"></div>
+  <div id="primary" class="container   clearfix">
+    <section id="content" role="main" class="clearfix">
+      <div id="content-wrap">
+        <h1 class="page-title">Our History</h1>
+        <div class="region region-content">
+          <div id="block-system-main" class="block block-system">
+            <div class="content">
+              <div class="content">
+                <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                  <div class="field-items">
+                    <div class="field-item even">
+                      <div class="div-block">
+					    <!-- tabs -->
+			<div class="sky-tabs sky-tabs-pos-right sky-tabs-anim-flip sky-tabs-response-to-icons">
+				<input type="radio" name="sky-tabs" checked id="sky-tab1" class="sky-tab-content-1">
+				<label for="sky-tab1"><span><span><i class="fa fa-h-square"></i> Our History</span></span></label>
+				
+				<!--<input type="radio" name="sky-tabs" id="sky-tab9" class="sky-tab-content-9">
+				<label for="sky-tab9"><span><span><i class="fa fa-picture-o"></i>Offices</span></span></label>
+				
+				<input type="radio" name="sky-tabs" id="sky-tab5" class="sky-tab-content-5">
+				<label for="sky-tab5"><span><span><i class="fa fa-cogs"></i>Corporate Structure</span></span></label>-->
+				
+				<!--<input type="radio" name="sky-tabs" id="sky-tab4" class="sky-tab-content-4">
+				<label for="sky-tab4"><span><span><i class="fa fa-globe"></i>Vision</span></span></label>
+				
+				<input type="radio" name="sky-tabs" id="sky-tab5" class="sky-tab-content-5">
+				<label for="sky-tab5"><span><span><i class="fa fa-picture-o"></i>AOL Group </span></span></label>
+				
+				<input type="radio" name="sky-tabs" id="sky-tab6" class="sky-tab-content-6">
+				<label for="sky-tab6"><span><span><i class="fa fa-picture-o"></i>Customers</span></span></label>
+				
+				<input type="radio" name="sky-tabs" id="sky-tab7" class="sky-tab-content-7">
+				<label for="sky-tab7"><span><span><i class="fa fa-cogs"></i>Fleet</span></span></label>
+				
+				<input type="radio" name="sky-tabs" id="sky-tab8" class="sky-tab-content-8">
+				<label for="sky-tab8"><span><span><i class="fa fa-globe"></i>Management</span></span></label>
+				
+				<input type="radio" name="sky-tabs" id="sky-tab9" class="sky-tab-content-9">
+				<label for="sky-tab9"><span><span><i class="fa fa-globe"></i>Office Address</span></span></label>-->
+				  
+				<ul>
+					<li class="sky-tab-content-1">					
+						<div class="typography">
+							<h1>Aban's History</h1>
+							<img src="images/founder.jpg"/><p class="office11">The ABAN Group was born as a small engineering firm in Chennai, Aban Constructions, established by late Mr. M. A. Abraham in 1965. A visionary, Mr. M. A. Abraham began his career as an engineering professional in the Construction Industry with illustrious names like the Tata Group and Saipem.</p>
+							<p class="office11">The Group took giant strides into newer arenas of operation like the execution of high-pressure systems and cross-country pipelines for refineries and fertilizer and petrochemical industries. Inevitably, Aban ventured into the high-powered domains of drilling, power generation and IT Enabled Services (ITES).</p>
+							<div class="frame">
+							<div class="frame-width">
+							<h1 style="height: 30px;">Vision</h1>
+							<p class="office7">To be the leading global offshore company providing drilling, exploration and production services to our clients by consistently achieving targets beyond expectations through amalgamation of our competent and motivated people,  equipment and innovative expertise.</p>
+							<h1 style="height: 30px;">Mission</h1>
+							<p class="office7">We will be recognized as global leaders, by offering our clients superior service, including experienced, suitably trained and motivated personnel, superior, reliable and efficient equipment with environmentally friendly operations.</p>
+							<p class="office7">We will achieve leadership status by actively encouraging our employees to attain the highest standards of ethics, honesty and integrity. We will foster pride, enthusiasm, creativity and teamwork to ensure trust and confidence in our employees, clients and suppliers.</p>
+							<p class="office7">We will actively support and emphasize âzero toleranceâ to unsafe working practices and conditions, by utilizing and implementing the best industry standards in our operations at all times.</p>
+							<p class="office7">We will actively grow Aban through financial discipline and cost effective asset management to deliver superior returns to our clients and shareholders.</p>
+							</div>
+							</div>
+							<h1>Milestones</h1>
+							<p class="office7"><strong>Aban Offshore Ltd incorporated in 1986.</strong></p>
+							<p class="office7"><strong>1987 - First 2 jack-up rigs arrive in India from the USA.</strong></p>
+							<p class="office7"><strong>First well drilled by Aban Offshore Ltd for ONGC.</strong></p>
+							<p class="office7"style="border-bottom:1px solid #ccc;">By the 1990s, many private sector companies in India chose to exit the drilling business. However, AOL preferred to increase its focus on the sector with newer rigs, acquisitions and mergers.</p>
+							<p class="office7"style="border-bottom:1px solid #ccc;"><strong>1993: Fleet Addition</strong><br/>AOL purchases a 300-ft. jack-up rig from Mahindra & Mahindra Ltd.</p>
+							<p class="office7"style="border-bottom:1px solid #ccc;"><strong>2000 â 2001: Hitech Acquisition</strong><br/>AOL acquires Hitech Drilling Services (India) Ltd., belonging to the Tata Group, boosting AOLâs fleet to four rigs. This also enables AOL to enter the FPSO business with the FPU âTaharaâ owned by Hitech.</p>
+							<p class="office7"style="border-bottom:1px solid #ccc;"><strong>2005: Fleet Addition</strong><br/>AOL adds two jack-up rigs (Aban V and Aban VI) and a drill ship (Frontier Ice).</p>
+							<p class="office7"style="border-bottom:1px solid #ccc;"><strong>2005: International Expansion</strong><br/> In line with its global expansion strategy, AOL launches Aban Singapore Pte Ltd. (ASPL) in November as its vehicle for international operations. ASPL, in turn, sets up 3 SPVs as step down subsidiaries, each equipped with a rig or drill ship.</p>
+							<p class="office7"style="border-bottom:1px solid #ccc;"><strong>2006: Sinvest Acquisition</strong><br/>ASPL acquires a 33.7% stake in Sinvest ASA, a Norwegian company with eight new premium jack-ups on order. ASPL subsequently completes the acquisition in stages, including a mandatory offer to all shareholders.</p>
+							<p class="office7">AOL currently possesses eighteen offshore drilling and production units spiraling us to a prestigious position among the top ten offshore drilling asset owners in the world.</p>
+							
+						</div>
+					</li>
+						<!--<li class="sky-tab-content-9">
+						<div class="typography">
+
+							<h1 class="office8">Office Address</h1>
+							<p class="office1"><b>Corporate Office - Chennai (India)</b> <hr/></p>
+							<img src="images/hr1.png"/>
+							
+							<p class="office7">Aban Offshore Ltd.<br/>'Janpriya Crest',<br/>#113, Pantheon Road, Egmore,<br/>Chennai - 600 008, India <br/>Phone : +91-44-28195555<br/>Fax : +91-44-28195527</p><br/>
+							<p class="office3"><b>Mumbai Office (India)</b> </p>
+							<img src="images/hr1.png"/>
+							<p class="office7">Aban Offshore Ltd.<br/>No: 8 &amp; 9, Vikas Centre<br>S.V.Road, Santa Cruz (W)<br>Mumbai - 400 054<br>Phone : 91-22-26616016 / 26615905<br></p><br/>
+							<p class="office4"><b>Dubai Office</b> </p>
+							<img src="images/hr1.png"/>
+							<p class="office7">Aban Offshore Ltd.<br/>Suite 310, Spectrum Building <br>Oud Metha, Dubai, <br>United Arab Emirates.<br>P.O. Box: 333956<br>Phone : +9714 358 4777 <br>FAX: +9714 358 4333<br></p><br/>
+							<p class="office5"><b>Singapore Office</b> </p>
+							<img src="images/hr1.png"/>
+							<p class="office7">Aban Offshore Ltd.<br/>No.6, Temasek Boulevard,<br>#28-01 to 05, Suntec Tower Four, <br>Singapore 038986.<br>(Phone: +65 â 65001300 to 9)<br>Fax: +65 - 62948540</p><br/>
+							<p class="office6"><b>Oslo Office (Norway)</b> </p>
+							<img src="images/hr1.png"/>
+							<p class="office7">Sinvest AS<br/>Lilleakervein 31,<br>No. 0283 Oslo, Norway<br>Fax: +47-22064471<br></p>
+							
+						</div>
+					</li>-->
+					
+					<!--<li class="sky-tab-content-2">
+						<div class="typography">
+							<h1>Aban Offshore Limited - The Genesis</h1>
+							<p class="office7">Aban Offshore Limited (AOL) was established in 1986 when Indian entrepreneurs were encouraged to provide offshore drilling services to the Oil and Natural Gas Corporation Ltd. (ONGC) to meet the growing needs of a vibrant economy. AOL launched its first contract drilling service to the ONGC in 1987 with two modern jack-up drilling rigs acquired from the USA.</p>
+						</div>
+					</li>-->
+					
+					<!--<li class="sky-tab-content-3">
+						<div class="typography">
+							<h1>Milestones</h1>
+							<p class="office7">By the 1990s, many private sector companies in India chose to exit the drilling business. However, AOL preferred to increase its focus on the sector with newer rigs, acquisitions and mergers.</p>
+							<p class="office7"><strong>1993: Fleet Addition</strong><br/>AOL purchases a 300-ft. jack-up rig from Mahindra & Mahindra Ltd.</p>
+							<p class="office7"><strong>2000 â 2001: Hitech Acquisition</strong><br/>AOL acquires Hitech Drilling Services (India) Ltd., belonging to the Tata Group, boosting AOLâs fleet to four rigs. This also enables <br/>AOL to enter the FPSO business with the FPU âTaharaâ owned by Hitech.</p>
+							<p class="office7"><strong>2005: Fleet Addition</strong><br/>AOL adds two jack-up rigs (Aban V and Aban VI) and a drill ship (Frontier Ice).</p>
+							<p class="office7"><strong>2005: International Expansion</strong><br/> In line with its global expansion strategy, AOL launches Aban Singapore Pte Ltd. (ASPL) in November as its vehicle for international <br/>operations. ASPL, in turn, sets up 3 SPVs as step down subsidiaries, each equipped with a rig or drill ship.</p>
+							<p class="office7"><strong>2006: Sinvest Acquisition</strong><br/>ASPL acquires a 33.7% stake in Sinvest ASA, a Norwegian company with eight new premium jack-ups on order. ASPL subsequently <br/>completes the acquisition in stages, including a mandatory offer to all shareholders.</p>
+							<p class="office7">AOL currently possesses eighteen offshore drilling and production units spiraling us to a prestigious position among the top ten offshore drilling asset owners in the world.</p>
+						</div>
+					</li>
+					
+					<li class="sky-tab-content-4">
+						<div class="typography">
+							<h1>Vision</h1>
+							<p class="office7">We are driven by a vision to achieve far-reaching success in every field by developing innovative, integrated, enterprising and world-class services for the global market.</p>
+							<p class="office7">Aban believes in providing its clients an unmatched value proposition, through its proven experience, modern technology and diverse range of services.</p>
+							<p class="office7">The operations are manned by a powerful team of well qualified and highly experienced professionals with a rich proven track record of achievement and experience in both Indian and international projects.</p>
+							<p class="office7">With us, quality assurance and quality systems have been accorded the highest priority and today Aban is ISO 9001:2000 accredited.</p>
+							<p class="office7">Our mission is to be at the forefront, in the fiercely competitive business environment of today, through our managerial, technical and operational excellence, range of services and skilled manpower.</p>
+						</div>
+					</li>-->
+					
+					<!--<li class="sky-tab-content-5">					
+						<div class="typography">
+							<h1>Corporate Structure</h1>
+							<img src="images/abt_flowchart.gif"/>
+						</div>
+					</li>-->
+					
+					<!--<li class="sky-tab-content-6">
+						<div class="typography">
+							<h1>Customers</h1>
+							<p class="office7">Aban Offshore Ltd. enjoys the privilege of partnering with several global players in the oil and natural gas industry by offering them reliable, state-of-the-art drilling services. Our notable customers are:</p><br/>
+							<p class="office9"><strong>Oil & Natural Gas Corporation Ltd. (ONGC)</strong></p>
+							<p class="office9"><strong>Hardy Exploration & Production (India) Inc.</strong></p>
+							<p class="office9"><strong>Shell Brunei</strong></p>
+							<p class="office9"><strong>Shell Malaysia</strong></p>
+							<p class="office9"><strong>Gujarat State Petroleum Corporation Ltd. (GSPC)</strong></p>
+							<p class="office9"><strong>Hindustan Oil Exploration Co. Ltd.</strong></p>
+							<p class="office9"><strong>Cairn Energy</strong></p>
+							<p class="office9"><strong>Petronas Carigali</strong></p>
+							<p class="office9"><strong>ROC Oil</strong></p>
+							<p class="office9"><strong>Shell (South East Asia)</strong></p>
+							<p class="office9"><strong>Exxon Mobil Malaysia</strong></p>
+						</div>
+					</li>
+					
+					<li class="sky-tab-content-7">
+						<div class="typography">
+							<h1>AOL Fleet</h1>
+							<p class="office7">Aban Offshore Limited possesses twenty offshore assets including fifteen jack-up offshore drilling rigs, two drill ships, one floating production platform and a jack-up rig and drill ship each on bareboat charter.</p><br/>
+							<p class="office7">Given below are specifications of our fleet :<br/></p><br/>
+							<p class="office7"><a href="http://www.abanoffshore.com/Aboutus.aspx#f1">Aban Offshore Ltd.</a></p>
+							<p class="office7"><a href="http://www.abanoffshore.com/Aboutus.aspx#f2">Aban Singapore Pte. Ltd.</a></p>
+							
+						</div>
+					</li>
+					
+					<li class="sky-tab-content-8">
+						<div class="typography">
+							<h1>Management</h1>
+							<p class="detailleft1"> Board of Directors </p>
+							<p class="jack1"><b>Mr. P Murari</b> (Chairman)</p>
+							<p class="jack"><b>Mr. Reji Abraham </b> (Managing Director)</p>
+							<p class="jack1"><b>Mr. P Venkateswaran</b> (Deputy Managing Director)</p>
+							<p class="jack"><b>Mr. C P Gopalkrishnan</b> (Deputy Managing Director &amp; Secretary)</p>
+							<p class="jack1"><b>Mr. K Bharathan</b> (Director)</p>
+							<p class="jack"><b>Mr. Ashok Kumar Rout</b> (Director)</p>
+						</div>
+					</li>-->
+					
+				
+                    					
+				</ul>
+			</div>
+			<!--/ tabs -->
+			
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <footer> </footer>
+            </div>
+          </div>
+          <!-- /.block --> 
+        </div>
+        <!-- /.region --> 
+      </div>
+    </section>
+  </div>
+
+</div>
+</body>
+</html>
